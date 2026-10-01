@@ -1,0 +1,1 @@
+console.log("CHIRAX Market Data Platform");
